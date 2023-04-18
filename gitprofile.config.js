@@ -61,18 +61,18 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
-  /* certifications: [
+  certifications: [
     {
       name: 'Quera',
       body: 'Poject-Oriented Course in Front-End Web Development',
       year: 'Feb 2021',
       link: 'https://quera.org/media/public/quera_certificate/2bc0465f77464853bc5ea5814cd8edd3.jpg'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Bu-Ali Sina University',
-      degree: 'bachelor's degree, Computer Science',
+      degree: 'bachelor\'s degree, Computer Science',
       from: '2018',
       to: '2022',
     },
