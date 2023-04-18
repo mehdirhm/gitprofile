@@ -63,25 +63,20 @@ const config = {
   ],
   /* certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com'
+      name: 'Quera',
+      body: 'Poject-Oriented Course in Front-End Web Development',
+      year: 'Feb 2021',
+      link: 'https://quera.org/media/public/quera_certificate/2bc0465f77464853bc5ea5814cd8edd3.jpg'
     },
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Bu-Ali Sina University',
+      degree: 'bachelor's degree, Computer Science',
+      from: '2018',
+      to: '2022',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
+  
   ],
 
   // To hide the `My Projects` section, keep it empty.
